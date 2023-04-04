@@ -1,5 +1,0 @@
-# Discord OATH token - https://discordapp.com/developers/docs/topics/oauth2
-discord_access_token = "YOUR TOKEN HERE"
-
-# Directory to store plugins in.
-plugins_dir = "./plugins"
